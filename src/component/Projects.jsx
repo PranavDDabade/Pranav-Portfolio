@@ -30,6 +30,8 @@ const Project = () => {
   return (
     <section id="project" className="project-section">
       <h2 className="section-title">Projects</h2>
+      <p className="project-intro">Looking forward to implementing this project as a hands-on step in my DevOps learning journey.</p>
+
       <div className="project-grid">
         {projectList.map((project, index) => (
           <div key={index} className="project-card">
