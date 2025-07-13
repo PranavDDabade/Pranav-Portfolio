@@ -1,0 +1,90 @@
+.about-container {
+  max-width: 1000px;
+  margin: 90px auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 16px;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+  line-height: 1.7;
+  color: #333;
+  box-sizing: border-box;
+}
+
+#about {
+  scroll-margin-top: 190px; /* Adjust for fixed navbar height */
+}
+
+/* ---------- Typography ---------- */
+.about-container h2 {
+  font-size: 32px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  text-align: center;
+  background-image: linear-gradient(to right, #da7c25, #b923e1);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.about-container h3 {
+  margin-top: 30px;
+  font-size: 20px;
+  font-weight: 600;
+  color: #2d3748;
+}
+
+.about-container p,
+.about-container li {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.about-container ul {
+  padding-left: 20px;
+  list-style: none;
+}
+
+.about-container ul li::before {
+  content: "✅";
+  margin-right: 8px;
+}
+
+/* ---------- Responsive Styling ---------- */
+@media (max-width: 768px) {
+  .about-container {
+    margin: 60px 20px;
+    padding: 15px;
+  }
+
+  .about-container h2 {
+    font-size: 26px;
+  }
+
+  .about-container h3 {
+    font-size: 18px;
+  }
+
+  .about-container p,
+  .about-container li {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 480px) {
+  .about-container {
+    margin: 40px 30px;
+    padding: 15px 10px;
+  }
+
+  .about-container h2 {
+    font-size: 22px;
+  }
+
+  .about-container h3 {
+    font-size: 16px;
+  }
+
+  .about-container p,
+  .about-container li {
+    font-size: 14px;
+  }
+}

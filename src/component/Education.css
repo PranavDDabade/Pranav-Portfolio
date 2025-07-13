@@ -1,0 +1,46 @@
+.education-section {
+  padding: 100px 60px 50px;
+  background-color: #f9f9f9;
+}
+#education {
+  scroll-margin-top: 190px; /* Adjust based on navbar height */
+}
+.education-section h2 {
+  font-size: 32px;
+  text-align: center;
+  margin-bottom: 50px;
+  background-image: linear-gradient(to right, #da7c25, #b923e1);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.edu-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+}
+
+.edu-card {
+  background-color: white;
+  border-radius: 16px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  padding: 25px 30px;
+  width: 320px;
+  transition: transform 0.3s ease;
+}
+
+.edu-card:hover {
+  transform: translateY(-5px);
+}
+
+.edu-card h3 {
+  font-size: 20px;
+  color: #2c2c2c;
+  margin-bottom: 10px;
+}
+
+.edu-card p {
+  margin: 4px 0;
+  color: #555;
+}
