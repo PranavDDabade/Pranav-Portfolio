@@ -1,5 +1,5 @@
 import React from 'react';
-import './AlertBox.css';
+import './Alertbox.css';
 
 function AlertBox({ message, type, onClose }) {
     return (
