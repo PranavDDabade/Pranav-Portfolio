@@ -1,12 +1,51 @@
-# React + Vite
+# 🌐 Pranav Dabade — DevOps Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website built with **React.js**, showcasing my journey, skills, education, and professional projects in **DevOps** and **Full Stack Development**.
 
-Currently, two official plugins are available:
+![Portfolio Screenshot](./screenshot.png) <!-- Optional: Replace with actual image or remove -->
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔗 [View Portfolio Live on Netlify](https://your-netlify-url.netlify.app)
+
+---
+
+## 🧰 Tech Stack
+
+- 💻 **Frontend:** React.js, CSS3, HTML5, JavaScript
+- 🎨 **Styling:** Tailwind CSS / Bootstrap / Custom CSS (based on your choice)
+- ⚙️ **Deployment:** Netlify
+- 📂 **Version Control:** Git & GitHub
+
+---
+
+## 📁 Features
+
+- 🔸 Responsive design for desktop, tablet, and mobile
+- 🔸 Smooth scrolling and section navigation
+- 🔸 Dynamic hero section with action buttons
+- 🔸 Contact section with clickable icons
+- 🔸 Resume download feature
+- 🔸 Clean and modern UI
+- 🔸 Scroll margin support for fixed navbar
+
+---
+
+## 📌 Sections Included
+
+- ✅ Hero (Intro & Resume Button)
+- ✅ About Me
+- ✅ Education
+- ✅ Skills
+- ✅ Projects
+- ✅ Contact (Email, LinkedIn, GitHub)
+
+---
+📬 Contact
+Feel free to connect with me:
+
+📧 Email: pranavddabade@gmail.com
+
+🔗 LinkedIn https://linkedin.com/in/pranav-dabade-016179284
