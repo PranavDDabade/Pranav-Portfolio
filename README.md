@@ -8,7 +8,7 @@ Welcome to my personal portfolio website built with **React.js**, showcasing my 
 
 ## 🚀 Live Demo
 
-🔗 [View Portfolio Live on Netlify](https://your-netlify-url.netlify.app)
+🔗 [View Portfolio Live ](https://pranav-portfolio-5oja.vercel.app/)
 
 ---
 
