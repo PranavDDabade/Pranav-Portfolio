@@ -48,6 +48,7 @@
   cursor: pointer;
   transition: 0.5s;
   color: white;
+  text-decoration: none;
 }
 
 .hero-connect a {
@@ -56,12 +57,19 @@
   display: inline-block;
 }
 
+.hero-resume h4{
+    text-decoration: none;
+}
 .hero-resume {
   border-radius: 50px;
   padding: 15px 50px;
-  border: 1px solid#b923e1 ;
+  border: 1px solid #b923e1;
   transition: 0.5s;
+  text-decoration: none;
+  color: black;
+  display: inline-block;
 }
+
 .hero-resume a{
   text-decoration: none;
   color: black;
@@ -79,6 +87,7 @@
   border: 1px solid rgb(185, 35, 225);
   border-color: #da7c25;
   transform: scale(1.05);
+    text-decoration: none;
 }
 
 /* ----------------------------
