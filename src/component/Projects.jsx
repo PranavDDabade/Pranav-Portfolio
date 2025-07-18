@@ -7,23 +7,20 @@ const Project = () => {
 
       title: " Full-Stack Task Manager with Automated CI/CD",
       description: "Developed a news aggregator application with microservices architecture and deployed it on a Kubernetes cluster using Helm charts. Each service (news fetch, sentiment analysis, UI) was containerized and scaled independently. Implemented health checks, rolling updates, and load balancing. Integrated Prometheus and Grafana for real-time monitoring.",
-      tech: " React, Node.js, MongoDB, GitHub Actions, Docker, AWS EC2  ",
-      github: "https://github.com/pranavddabade/",
-      live: "#"
+      tech: " React, Node.js, MongoDB, GitHub Actions, Docker, AWS EC2  "
+     
     },
     {
       title: " Automated Cloud Infrastructure Provisioning with Terraform",
       description: "Built a scalable, three-tier architecture using Terraform to provision AWS infrastructure. Configured VPC, subnets, EC2, and RDS instances. Used S3 + DynamoDB for remote backend state management. The project supports full automation from infrastructure provisioning to instance bootstrapping using Terraform modules and reusable templates.",
-      tech: "erraform, AWS (EC2, S3, RDS, IAM), GitHub Actions",
-      github: "https://github.com/pranavddabade/",
-      live: "#"
+      tech: "erraform, AWS (EC2, S3, RDS, IAM), GitHub Actions"
+      
     },
     {
       title: " Scalable Microservices Deployment with Kubernetes",
       description: "Developed a news aggregator application with microservices architecture and deployed it on a Kubernetes cluster using Helm charts. Each service (news fetch, sentiment analysis, UI) was containerized and scaled independently. Implemented health checks, rolling updates, and load balancing. Integrated Prometheus and Grafana for real-time monitoring.",
-      tech: "Node.js, Kubernetes (Minikube / EKS), Helm, Docker, Prometheus, Grafana",
-      github: "https://github.com/pranavddabade/",
-      live: "#"
+      tech: "Node.js, Kubernetes (Minikube / EKS), Helm, Docker, Prometheus, Grafana"
+      
     }
   ];
 
