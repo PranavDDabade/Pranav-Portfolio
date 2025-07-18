@@ -36,8 +36,8 @@ const Project = () => {
             <p className="project-desc">{project.description}</p>
             <p className="project-tech"><strong>Tech:</strong> {project.tech}</p>
             <div className="project-links">
-              <a href={project.github} target="_blank" rel="noopener noreferrer">GitHub</a>
-              <a href={project.live} target="_blank" rel="noopener noreferrer">Live</a>
+{/*               <a href={project.github} target="_blank" rel="noopener noreferrer">GitHub</a>
+              <a href={project.live} target="_blank" rel="noopener noreferrer">Live</a> */}
             </div>
           </div>
         ))}
