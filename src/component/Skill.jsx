@@ -6,6 +6,8 @@ function Skill() {
     <section id="skill" className="skill-section">
       <h2 className="section-title">Skills</h2>
 
+      <p className="project-intro">Learning key DevOps concepts and tools to build a strong foundational skillset.
+      Following are the skills I am currently focusing on.</p>
       <div className="skill-grid">
 
         <div className="skill-box">
